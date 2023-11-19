@@ -1,0 +1,40 @@
+.sec1 {
+  width: 1440px;
+  margin: 0 auto;
+}
+.a1 {
+  color: #5863e3;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 64px;
+  height: 20px;
+}
+.h11 {
+  color: #000;
+  font-family: Helvetica;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 371px;
+  height: 112px;
+}
+.sec2 {
+  width: 1440px;
+  margin: 0 auto;
+}
+.div1 {
+  display: inline-block;
+}
+
+.div2 {
+  display: inline-block;
+  vertical-align: top;
+}
+.div3 {
+  display: inline-block;
+  vertical-align: top;
+}
