@@ -27,14 +27,22 @@
   margin: 0 auto;
 }
 .div1 {
-  display: inline-block;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
 }
 
 .div2 {
-  display: inline-block;
-  vertical-align: top;
+  display: flex;
+  justify-content: end;
+  align-items: end;
 }
 .div3 {
-  display: inline-block;
-  vertical-align: top;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+.tt {
+  display: flex;
+  justify-content: space-around;
 }
